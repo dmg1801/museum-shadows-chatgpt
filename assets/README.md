@@ -1,0 +1,1 @@
+Placeholder asset directory. Procedural pixel-art sprites, environments and Web Audio sound placeholders are created at runtime in js/game.js. Replace with licensed PNG/WAV/OGG assets as the project evolves.
